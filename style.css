@@ -1,0 +1,25 @@
+* {
+    box-sizing: border-box;
+}
+.tarja-box {
+    position:fixed;
+    top:20px;
+    left: -70px;
+    width:300px;
+    height:70px;
+    text-align:center;
+    line-height: 70px;
+    background-color:#000080;
+    transform: rotate(-45deg);
+    box-shadow: 0px 0px 10px #2b2b2b;
+}
+a {
+    padding:10px 100px;
+    text-decoration: none;
+    color:#ffffff;
+    font-family:serif;
+    border-top: 1px solid #fff;
+    border-bottom: 1px solid #fff;
+    text-shadow:0px 2px 3px #262626;
+    font-size:20px;
+}
